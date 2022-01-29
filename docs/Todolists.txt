@@ -1,0 +1,172 @@
+project Vr(1)
+                     - Day Tus 5:05 pm Date 30/3/2021 -
+
+1-structuer project
+*- Do That To Day Layout the page And html5 Code 
+*- And Do The Digrame DataBase (ERD)
+#_Layout Login page 
+1- button               submit (html5) (Done)
+2- Username             Input  (html5) (Done)
+ 
+3 - Css File name style 
+( Buttons Styles )                     (Done)
+    font-size 15px                     (Done)  
+    color white                        (Done)
+    background #5F9EA0                 (Done)
+
+( Text Box  Styles )                   (Done) 
+    font-size 15px                     (Done)
+    color white                        (Done)
+    Width 100% From The form           (Done)
+
+#_Layout Registeration page  
+1- button               submit (html5) (Done)
+2- Username             Input  (html5) (Done)
+3- Email                Input  (html5) (Done) 
+4- Password             Input  (html5) (Done) 
+5- Confirm password     Input  (html5) (Done) 
+6- Address              Input  (html5) (Done) 
+6- FullName             Input  (html5) (Done) 
+ 
+3 - Css File name style 
+( Buttons Styles )                     (Done)
+    font-size 15px                     (Done)
+    color white                        (Done)
+    background #5F9EA0                 (Done)
+
+( Text Box  Styles )
+    font-size 15px                     (Done)
+    color white                        (Done)
+    Width 100% From The form           (Done)
+And Do The Digrame DataBase (ERD)      (Done)
+And Do The Digrame DataBase (UML)      (0)
+
+Finished All at 2:00 pm
+------------------------------------------------------------------------------------
+
+                     - Day Wed 6:05 pm Date 31/3/2021 -
+*-TODO 
+1-Add In the page login newpassword (html5)                              (Done)
+------------------------------------------------------
+2-Create The DataBase AG4you        (MYSQL)                              (Done)
+------------------------------------------------------
+3-Create Table users                (MYSQL)                              (Done)
+Table users
+*-UserID    int AI                   (MYSQL)                             (Done)
+*-username  varchar(255)             (MYSQL)                             (Done)
+*-Password  varchar(255)             (MYSQL)                             (Done)
+*-fullname  varchar(255)             (MYSQL)                             (Done)
+*-Address   varchar(255)             (MYSQL)                             (Done)
+--------------------------------------------------------
+4-Create file serever                (PHP)                               (Done)
+*-session start                      (PHP)                               (Done) 
+*-connection DataBase                (PHP)                               (Done)
+*-Firset Add User Register           (PHP)                               (Done)
+*-second Doo Login                   (PHP)                               (Done)  
+--------------------------------------------------------
+5-Create Home page                   (PHP&HTML5)                         (Done)
+*-Section                            (PHP&HTML5)                         (Done)
+*-Choose Image Ramadan Page          (PHP&HTML5)                         (Done)
+*-button mobile                      (PHP&HTML5)                         (Done)
+*-button El.div                      (PHP&HTML5)                         (Done)
+*-button shopca                      (PHP&HTML5)                         (Done)
+*-button logout                      (PHP&HTML5)                         (Done)
+*-page facebook                      (PHP&HTML5)                         (Done)
+*-Logo page                          (PHP&HTML5)                         (Done)
+
+When the process is successful
+1-(Header Message)                                                       (Done)                                                               
+*-Welcome Ramban                                    (PHP&HTML5)          (Done)
+*-Welcome username & name projicts Action Go 4 You  (PHP&HTML5)          (Done)
+-----------------------------------------------------------
+2-when the user Click Buttons mobile Go To the page mobile               (Done)
+3-create the mobile page And Layout like jumia                           (Done)
+button next Buttons like this () () () () and <h1>mobile name<h1>        (Done)
+4-create the table mobile                                                (Done)
+Table mob
+*-id_mob    int AI                   (MYSQL)                             (Done)
+*-name_mob  varchar(255)             (MYSQL)                             (Done)
+*-price_mob varchar(255)             (MYSQL)                             (Done) 
+-----------------------------------------------------------
+Same Page  El.Dive.php File  
+Finished All at 6:00 am
+
+
+
+                     - Day Thu 10:05 pm Date 1/4/2021 -
+
+
+
+# TODO
+1-when the user Click Buttons name gohop Go To the page Shopping Cart
+---------------------------------------------------------------------------------------- 
+2-create the page Shopping Cart 
+*-Header in this Header name this page Shopping Cart    (HTML5)              (Done)
+*-Create Button  Show Orders Mobile                     (HTML5)              (Done)              
+*-Create Button  Show Orders Eldive                     (HTML5)              (Done)
+*-Create Button  Home                                   (HTML5)              (Done)
+*-Create Button  Hide                                   (HTML5)              (Done)
+*-Create Button  Done                                   (HTML5)              (Done)
+-----------------------------------------------------------------------------------------
+3-when the user Click Buttons name Show mob             (PHP)                (Done) 
+*-show this orders from the user session int the table  (PHP&HTML5)          (Done) 
+----------------------------------------------------------------------------------------
+4-when the user Click Buttons name Show ad 
+*-show this orders from the user session int the table  (PHP&HTML5)  
+----------------------------------------------------------------------------------------
+5-create the table ordersmob                                               (Done)
+Table orders mobile
+*-id_order_mob    int AI               (MYSQL)                             (Done)
+*-id_userorder    int (forekeyusers)   (MYSQL)                             (Done)
+*-id_mob_order    int (forekeymobil)   (MYSQL)                             (Done) 
+----------------------------------------------------------------------------------------
+5-create the table ordersadv                                               (Done)
+Table orders Electrical devices
+*-id_order_ad	  int AI               (MYSQL)                             (Done)
+*-id_userad       int (forekeyusers)   (MYSQL)                             (Done)
+*-id_adorder      int (forekeyadvie)   (MYSQL)                             (Done) 
+----------------------------------------------------------------------------------------
+Finished All at 7:00 am
+In this point we Finished This project in - Day Friday 7:00 1m Date 2/4/2021 - 
+---------------------------------------------------------------------------------------
+
+
+
+project.vRAG4(2)
+
+                    - Day Friday 7:00 1m Date 12/4/2021 - 
+
+
+Add in This project 
+
+E.Bankes
+
+1 - create a folder bank 
+------------------------------------------------------------------------------------------
+2- create file bank.php                 
+*-Label put in the Money               (HTML5)                             (Done)
+*-Text Box put in the Money            (HTML5)                             (Done)
+*-Button Save Data                     (HTML5)                             (Done)
+*-Button Show An accuont               (HTML5)                             (Done)
+------------------------------------------------------------------------------------------
+3-Create Table anc
+*-id_anc          int AI               (MYSQL)                             (Done)
+*-total_user      int                  (MYSQL)                             (Done)
+*-id_useracn      int (forekeyusers)   (MYSQL)                             (Done) 
+-------------------------------------------------------------------------------------------
+Finished All at 7:00 am
+In this point we Finished This project in - Day  7:00 1m Date 13/4/2021 -
+------------------------------------------------------------------------------------------
+
+project.vRAG4(3)
+
+                    - Day Friday 7:00 1m Date 21/4/2021 -
+
+Soon......
+
+2-Qun item 
+3-Mobile & El.Dive            (PHP)
+When The User Viset this Page Requirament the item love User $_SESSION['username']
+Mix That with artificial intelligence
+JavaScript with That
+ML & DL 
